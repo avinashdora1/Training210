@@ -8,6 +8,6 @@ Let us run some java code to deploy
 This code replicates the format
 
 
--Edit 1
+
 
 -Edit 2 for b2 branch
